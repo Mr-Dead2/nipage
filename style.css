@@ -1,5 +1,9 @@
 body{
-    background-color: #92C7CF;
+    background-color: #E5E1DA;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
 }
 
 header{
@@ -10,5 +14,26 @@ header{
     background-color: #AAD7D9;
     height: auto;
     border-radius: 5px;
-    
+
 }   
+
+#kkk{
+    background-color: #92C7CF;
+    height: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#lll{
+    background-color: #92C7CF;
+    height: auto;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#jjj{
+    background-color: #FBF9F1;
+    height: auto;
+    border-radius: 5px;
+    
+}
