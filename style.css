@@ -39,3 +39,21 @@ header{
     border-radius: 5px;
     
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  th,td {
+    padding: 8px;
+    border-bottom: 2px solid black;
+    text-align: left;
+  }
+  
+  td{
+    background-color: #92C7CF;
+  }
+  th {
+    background-color: #7AA2E3;
+  }
